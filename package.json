@@ -1,7 +1,14 @@
 {
   "devDependencies": {
+    "@testing-library/jest-dom": "^4.1.2",
+    "@testing-library/react": "^9.3.0",
     "expect": "^24.9.0",
-    "tezt": "^1.1.0"
+    "jest": "^24.9.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "tezt": "^1.1.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.4"
   },
   "name": "LIB_NAME",
   "description": "",

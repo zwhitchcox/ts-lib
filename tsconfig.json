@@ -16,9 +16,9 @@
     "jsx": "react"
   },
   "files": [
-    "validatorz"
+    "lib.tsx"
   ],
   "include": [
-    "**/*.test.ts"
+    "**/*.test.ts", "lib.test.tsx"
   ],
 }
